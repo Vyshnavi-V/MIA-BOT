@@ -95,9 +95,10 @@ List of all functions used within this project.
 |send()|The send() method returns the next value yielded by the generator, or raises StopIteration if the generator exits without yielding another value.|
 |fetch_message()|fetch_message function is used to fetch the count of users who reacted to the poll.|
 
-#connect with me : https://www.linkedin.com/in/vyshnavi-v-538ba9213/
-
 # License
 
 [![mit1](https://user-images.githubusercontent.com/85625961/208289339-9fc9a81e-53f3-46d4-bb1e-d34dd8cbf4e5.jpg)](https://opensource.org/licenses/MIT)
+
+
+<H3> Connect with me : <H5>https://www.linkedin.com/in/vyshnavi-v-538ba9213/ </H3>
 
