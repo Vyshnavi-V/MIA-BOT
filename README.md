@@ -84,7 +84,7 @@ List of all functions used within this project.
 | --------- | ----------- |
 |getenv()|getenv() method is used to extract the value of the environment variable key if it exists.|
 |on_ready()|on_ready() event is called when the bot has finished logging in and setting things up|
-|on_message)|on_message() function listens for any message that comes into any channel that the bot is in.|
+|on_message()|on_message() function listens for any message that comes into any channel that the bot is in.|
 |convert_time()|convert_time() function is used to convert user input time which is in the railway time format to 12 hour format.|
 |convert_date()|convert_date () function is used to format user input date|
 |command()|convert_date () function is used to format user input date|
